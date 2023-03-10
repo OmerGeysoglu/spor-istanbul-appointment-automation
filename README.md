@@ -7,7 +7,11 @@ https://www.twilio.com/docs/whatsapp/quickstart/python
 
 If you only want to use the version that works continuously in local, it is enough to edit the main.ipynb inside of **spor-istanbul-local** folder and run it.
 
+<<<<<<< HEAD
 In case you need to schedule your task you will need to use a **cron job**. We will be using **Heroku**, which offers a free scheduler (limited to 100 executions, after that you should set your cron job again).
+=======
+In case you need to schedule your task you will need to use a **cron job**. We will be using **Heroku**, which offers a free scheduler.
+>>>>>>> adb97ab1bba781718ee1fa5424e4266d82add97f
 
 After you create an account and deploy your project to Heroku, you will be able to set your scheduler.
 
